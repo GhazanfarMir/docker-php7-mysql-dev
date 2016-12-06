@@ -1,4 +1,5 @@
 ## Build image for Laravel from pablofmorales/apache-php7
+
 FROM pablofmorales/apache-php7
 MAINTAINER Ghazanfar Mir <GhazanfarMir@gmail.com>
 ADD ./apache2.conf /etc/apache2/apache2.conf
