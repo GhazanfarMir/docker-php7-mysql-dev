@@ -8,3 +8,6 @@ Docker compose for development environment consists of Apache, PHP7 &amp; MYSQL
 - run `docker-compose up -d`
 - run `docker ps` to see both containers `web` & `db` are running
 - hit `localhost` and your should see the phpinfo page.
+
+
+_NB: source image taken from https://github.com/pablofmorales/docker-apache-php7_
